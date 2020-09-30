@@ -46,6 +46,27 @@
 			"country": "fr",
 			"language": "en",
 			"url": "https://xcp-ng.org/blog/2020/08/13/xcp-ng-at-vates/"
+			
+		    "title": "Xen Orchestra",
+		    "logo": "https://xen-orchestra.com/#!/",
+		    "website": "https://xen-orchestra.com",
+		    "category_list": ["Infrastructure"],
+		    "source_code_download": "http://github.com/vatesfr/xen-orchestra",
+		    "source_code_profile": "",
+		    "commercial_support": "https://xen-orchestra.com/#!/xo-pricing",
+		    "wikipedia_url": "",
+		    "success_case_list": [{
+			"title": "Xen Orchestra at Optanex",
+			"description": "we'll see how XCP-ng is used at Vates. And we'll use a very recent example as we just moved from server rental at various places to a colo/rack unit to colocate our own machines.",
+			"image": "https://xen-orchestra.com/blog/content/images/2018/10/home-1.svg",
+			"industry": "Telecommunication",
+			"customer": "Vates",
+			"country": "fr",
+			"language": "en",
+			"url": "https://xen-orchestra.com/blog/xoa-at-optanex-a-case-study/"
+			
+			
+			
 		}]
 	}]
 }
